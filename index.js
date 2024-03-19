@@ -30,8 +30,8 @@ const text3 = "Moon";
 
 const texts = ["Sleep In Moon Light", "Moon Light?", "Moon"];
 
-const ing1 = "https://img.wattpad.com//68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f43613036625763704f4a663548773d3d2d3732393935373530372e313539643665613164366331306166323134333630393032343532352e676966?s=fit&amp;w=720&amp;h=720";
-const ing2 = "https://cdn.discordapp.com/attachments/1155965892853760030/1155966065277411328/1102270930023088280.gif?ex=65494e4a&is=6536d94a&hm=879e80228cc195b2cb6b391952e3ecd3c87b9bd32827d7aaa0e9310b70c9fe4b&";
+const ing1 = "https://media.discordapp.net/attachments/1142837051683786842/1217904329118449674/dgcuc2t-4e192b6e-8d36-441d-8638-d39b3e399d24.png?ex=6605b8cb&is=65f343cb&hm=1b322e5e6bd9f07f4b56016a8ea9dbcdebd775028f063ef75d1cecce94c74282&=&format=webp&quality=lossless&width=210&height=315";
+const ing2 = "https://media.discordapp.net/attachments/1142837051683786842/1217904329118449674/dgcuc2t-4e192b6e-8d36-441d-8638-d39b3e399d24.png?ex=6605b8cb&is=65f343cb&hm=1b322e5e6bd9f07f4b56016a8ea9dbcdebd775028f063ef75d1cecce94c74282&=&format=webp&quality=lossless&width=210&height=315";
 
 const nameButtonone = "" || "Listen to music";
 const linkButtonone = "" || "https://www.twitch.tv/chilledcat_music";
